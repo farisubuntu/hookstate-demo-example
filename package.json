@@ -9,6 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@hookstate/core": "^4.0.2",
+    "@hookstate/devtools": "^4.0.3",
     "@radix-ui/react-checkbox": "^1.1.4",
     "@radix-ui/react-popover": "^1.1.6",
     "@radix-ui/react-scroll-area": "^1.2.3",
