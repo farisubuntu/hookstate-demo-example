@@ -1,5 +1,6 @@
-# React + Vite + TypeScript Template (react-vite-ui)
+## hookstate demo example + [react + Vite + TypeScript Template (react-vite-ui)] and shadcn as UI
 
+- Original: [https://github.com/avkonst/hookstate/tree/master/docs/demos/todolist](https://github.com/avkonst/hookstate/tree/master/docs/demos/todolist)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Dan5py/react-vite-ui/blob/main/LICENSE)
 
 A React + Vite template powered by shadcn/ui.
