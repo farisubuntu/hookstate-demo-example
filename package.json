@@ -10,15 +10,25 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@hookform/resolvers": "^5.0.1",
     "@hookstate/core": "^4.0.2",
     "@hookstate/devtools": "^4.0.3",
+    "@radix-ui/react-checkbox": "^1.1.4",
+    "@radix-ui/react-label": "^2.1.2",
+    "@radix-ui/react-popover": "^1.1.6",
     "@radix-ui/react-slot": "^1.1.2",
+    "@radix-ui/react-toggle": "^1.1.2",
+    "@radix-ui/react-toggle-group": "^1.1.2",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
+    "date-fns": "^4.1.0",
     "lucide-react": "^0.484.0",
     "react": "^19.0.0",
+    "react-day-picker": "8.10.1",
     "react-dom": "^19.0.0",
-    "tailwindcss-animate": "^1.0.7"
+    "react-hook-form": "^7.55.0",
+    "tailwindcss-animate": "^1.0.7",
+    "zod": "^3.24.2"
   },
   "devDependencies": {
     "@eslint/js": "^9.23.0",
