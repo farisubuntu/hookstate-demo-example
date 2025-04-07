@@ -1,10 +1,11 @@
+"use client";
 // copied from App.tsx
 import React from "react";
 import { TasksViewer } from "@/components/todolist/TasksViewer";
 import { SettingsViewer } from "@/components/todolist/SettingsViewer";
 import { TasksTotal } from "@/components/todolist/TasksTotal";
 
-const App: React.FC = () => {
+export default function TodoListPage(){
 	return (
 		<div style={{ display: "flex" }}>
 			<div style={{ flexGrow: 2 }} />
@@ -58,4 +59,3 @@ const App: React.FC = () => {
 	);
 };
 
-export default App;
